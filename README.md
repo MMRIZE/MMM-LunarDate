@@ -2,6 +2,7 @@
 MagicMirror Module - Lunar date of today (Chinese Zodiac)
 
 ## Screenshot
+![Screenshot](https://github.com/eouia/MMM-LunarDate/blob/master/screenshot.png?raw=true)
 
 ## Information
 - This module will display Asian(of Korea or China) Lunar Calendar date and details.
