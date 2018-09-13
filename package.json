@@ -1,0 +1,20 @@
+{
+  "name": "MMM-LunarDate",
+  "version": "1.0.0",
+  "description": "MagicMirror Module for displaying Today's Lunar date",
+  "main": "MMM-LunarDate.js",
+  "repository": "https://github.com/eouia/MMM-LunarDate",
+  "keywords": [
+    "magic mirror",
+    "module",
+    "lunar date"
+  ],
+  "author": "eouia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eouia/MMM-LunarDate/issues"
+  },
+  "dependencies": {
+    "xml2json-light": "^1.0.6"
+  }
+}
